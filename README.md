@@ -32,9 +32,9 @@ Desenvolver um software de finanças pessoais capaz de auxiliar o usuário em su
 
 | Tarefa | Atribuídos |
 | ----------- | ----------- |
-| Designer UI/UX | Joaopkl & Igão |
+| Designer UI/UX | Joaopkl & Igor |
 | Designer | Trojan |
-| Desenvolvedor de aplicações | Igão |
+| Desenvolvedor de aplicações | Igor |
 | Gerenciamento | Fenrir |
 
 ---
