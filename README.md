@@ -32,7 +32,7 @@ Desenvolver um software de finanças pessoais capaz de auxiliar o usuário em su
 
 | Tarefa | Atribuídos |
 | ----------- | ----------- |
-| Designer UI/UX | Joaopkl & L1on |
+| Designer UI/UX | Joaopkl & Igão |
 | Designer | Trojan |
 | Desenvolvedor de aplicações | Igão |
 | Gerenciamento | Fenrir |
@@ -48,17 +48,7 @@ Desenvolver um software de finanças pessoais capaz de auxiliar o usuário em su
 | Python UI Design Using Tkinter (PC) | https://www.youtube.com/watch?v=mop6g-c5HEY |
 | Python Financial application with Matplotlib | https://www.youtube.com/watch?v=wB9C0Mz9gSo |
 
----
-
-## Documentação (Changelog)
-
-> Documentar desenvolvimento do projeto abaixo \
-> Deve ser feito da seguinte forma o template para ser entregue junto ao projeto:
-
-#### dd-mm-yyyy
-- Descrever alteracoes aqui
-
-- Relatar problemas aqui, detalhadamente junto a como foi solucionado
+--
 
 #### 30-08-2024
 - Criação base do software e sua estrutura interna de aplicação e UI
